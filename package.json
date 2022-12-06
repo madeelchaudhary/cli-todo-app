@@ -1,7 +1,7 @@
 {
-  "name": "cli-todo",
+  "name": "cli-todoslist",
   "version": "1.0.0",
-  "description": "",
+  "description": "Manage Todo list using CLI.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   "bin": "./index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/madeelchaudhary/cli-todo-app"
   },
   "keywords": [],
   "author": "",
